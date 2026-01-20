@@ -205,6 +205,4 @@ Dataset inspired by real-world IAM systems
 
 Isolation Forest algorithm from scikit-learn
 
-Developed as part of portfolio for CSG Cybersecurity Graduate Programme application
-
 ⭐ If you find this project useful, please consider giving it a star on GitHub!
